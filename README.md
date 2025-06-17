@@ -27,6 +27,8 @@
 
 [linkedin]: [https://www.linkedin.com/in/saraiestrada/]
 
+<a href="<https://www.linkedin.com/in/saraiestrada/>"><img src="<https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg>" alt="LinkedIn"></a>
+
 <!--
 
 Here are some ideas to get you started:
