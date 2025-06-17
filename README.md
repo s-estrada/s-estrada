@@ -21,15 +21,6 @@
 
 <h2> 🔗 Connect with me:</h2>
 
-
-[<img align="left" alt="SaraiEstrada | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-
-[linkedin]: [https://www.linkedin.com/in/saraiestrada/]
-
-[![LinkedIn](<https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg/)(<https://www.linkedin.com/in/saraiestrada/>)
-
-
 <a href="https://www.linkedin.com/in/saraiestrada/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn Profile">
 </a>
