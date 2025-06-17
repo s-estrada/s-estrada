@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻💼 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshcybertest/LABURL)
+  - [DoD Cyber Sentinel CTF Challenge](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025)
  
 <h2>📜 Certifications</h2>
 
