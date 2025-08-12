@@ -3,6 +3,7 @@
 <h2>👩🏻‍💻💼 Cybersecurity Projects:</h2>
 
   - [DoD Cyber Sentinel CTF Challenge](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025)
+  - [Telstra Cybersecurity Analyst Virtual Experience Program](https://github.com/s-estrada/TelstraCybersecurityAnalyst/tree/main)
  
 <h2>📜 Certifications</h2>
 
